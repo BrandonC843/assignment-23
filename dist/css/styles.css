@@ -2,10 +2,27 @@
   box-sizing: border-box; }
 
 body {
-  background: limegreen; }
+  background: seashell; }
 
 h2 {
   color: maroon;
   border-bottom: 4px solid maroon; }
+
+.container {
+  display: inline-block;
+  font-size: 10px;
+  background-color: #D4F1C7;
+  width: 30%;
+  margin: 10px; }
+
+h1 {
+  text-align: center;
+  color: blue; }
+
+h3 {
+  margin-left: 10px; }
+
+h4 {
+  margin-left: 7px; }
 
 /*# sourceMappingURL=styles.css.map*/
